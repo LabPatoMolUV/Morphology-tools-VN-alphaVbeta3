@@ -1,0 +1,5 @@
+#Script for territorial VN and inter-territorial VN detection.
+
+Run the script "1.ROI_extraction" to trim the Tumor annotation in multiple tiles.
+
+Run the script "2.VN_detection" for the proper detection of the Vitronectin
