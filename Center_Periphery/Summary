@@ -1,0 +1,7 @@
+# Scripts to obtain Center and Perifery of the sample.
+
+Run the first script "1.tumor_detection_measurements" to detect the sample.
+
+Run the second script "2.1.center_periphery_solidity" to obtain the center and periphery
+
+If you did not obtain  center and periphery of approximatelly the same size and the solidity of the Tumor is < 0.7. Run the script "2.2.center_periphery_morphologic_features"
