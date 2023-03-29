@@ -21,10 +21,8 @@ def wd = " "
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //TUMOR_GJ: Defines the destination folder for the tumor GeoJson file
-
-pathOutput1 = wd + '/1.geojson_files_tumor'
+def pathOutput1 = wd + '/1.geojson_files_tumor'
 mkdirs(pathOutput1)
-//def pathOutput1 = wd + '/1.geojson_files_tumor'
 
 //TUMOR_DATA: Defines the destination folder of the tumor area
 def pathOutput2 = wd + '/2.data_area_tumor'
